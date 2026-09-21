@@ -1,0 +1,5 @@
+-Xms1G
+-Xmx1300M
+-XX:+UseG1GC
+-XX:MaxGCPauseMillis=200
+-Dfile.encoding=UTF-8

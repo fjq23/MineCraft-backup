@@ -1,0 +1,6 @@
+Minecraft disaster-recovery backup.
+
+The world directory contains the save. The server directory contains the
+important configuration and access-list files. Reinstall Minecraft 1.21.11,
+NeoForge 21.11.45, and the mods listed in server/mods.txt, then restore these
+files into the server directory while the server is stopped.
