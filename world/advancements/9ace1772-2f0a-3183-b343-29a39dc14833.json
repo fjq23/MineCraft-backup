@@ -3896,5 +3896,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-09-26 19:18:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2026-09-26 19:23:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_purple_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/purple_bundle": {
+    "criteria": {
+      "has_purple_dye": "2026-09-26 20:55:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_blue_bundle": {
+    "criteria": {
+      "has_light_blue_dye": "2026-09-26 20:55:46 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
