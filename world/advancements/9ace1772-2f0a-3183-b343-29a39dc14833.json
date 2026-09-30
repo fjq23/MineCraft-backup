@@ -23,6 +23,7 @@
       "minecraft:birch_forest": "2026-09-18 22:18:54 +0800",
       "minecraft:windswept_hills": "2026-09-24 12:17:50 +0800",
       "minecraft:wooded_badlands": "2026-09-24 23:21:16 +0800",
+      "minecraft:bamboo_jungle": "2026-10-01 01:05:47 +0800",
       "minecraft:windswept_savanna": "2026-09-19 01:38:54 +0800",
       "minecraft:warm_ocean": "2026-09-18 23:48:57 +0800",
       "minecraft:deep_lukewarm_ocean": "2026-09-18 22:48:04 +0800",
@@ -4038,15 +4039,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/magenta_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-09-28 22:48:53 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dried_ghast": {
     "criteria": {
       "has_ghast_tear": "2026-09-28 22:38:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-09-28 22:48:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-09-28 22:48:53 +0800"
     },
     "done": true
   },
@@ -4065,12 +4072,6 @@
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2026-09-28 22:48:53 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2026-09-28 22:48:30 +0800"
     },
     "done": true
   },
@@ -4143,6 +4144,12 @@
   "minecraft:recipes/combat/blue_harness": {
     "criteria": {
       "has_dried_ghast": "2026-09-28 22:48:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-10-01 00:36:12 +0800"
     },
     "done": true
   },
