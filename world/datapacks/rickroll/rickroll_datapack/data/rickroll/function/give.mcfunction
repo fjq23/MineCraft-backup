@@ -1,0 +1,1 @@
+give @s minecraft:music_disc_13[minecraft:custom_name='{"text":"Never Gonna Give You Up","color":"light_purple","italic":false}',minecraft:lore=['{"text":"Rick Astley","color":"gray","italic":false}'],minecraft:jukebox_playable="rickroll:never_gonna_give_you_up"] 1
