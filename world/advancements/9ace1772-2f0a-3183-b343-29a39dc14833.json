@@ -467,6 +467,7 @@
       "cooked_porkchop": "2026-09-19 00:47:57 +0800",
       "bread": "2026-09-19 20:41:19 +0800",
       "cooked_chicken": "2026-10-01 17:01:20 +0800",
+      "cookie": "2026-10-04 19:47:51 +0800",
       "cooked_mutton": "2026-09-18 22:22:41 +0800",
       "mushroom_stew": "2026-09-18 22:15:15 +0800",
       "cooked_beef": "2026-09-18 22:58:13 +0800",
@@ -2438,9 +2439,10 @@
       "minecraft:crimson_forest": "2026-09-27 13:52:21 +0800",
       "minecraft:nether_wastes": "2026-09-20 09:33:56 +0800",
       "minecraft:soul_sand_valley": "2026-09-28 22:48:27 +0800",
-      "minecraft:basalt_deltas": "2026-09-20 18:49:12 +0800"
+      "minecraft:basalt_deltas": "2026-09-20 18:49:12 +0800",
+      "minecraft:warped_forest": "2026-10-04 13:56:51 +0800"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
@@ -4866,81 +4868,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_black_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:26:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-10-04 00:49:59 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/yellow_bundle": {
-    "criteria": {
-      "has_yellow_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_yellow_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:26:01 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-10-04 00:49:59 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/black_bundle": {
-    "criteria": {
-      "has_black_dye": "2026-10-04 00:26:01 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2026-10-04 00:11:16 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:54:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2026-10-04 00:23:33 +0800"
     },
     "done": true
   },
@@ -4953,12 +4883,6 @@
   "minecraft:recipes/decorations/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2026-10-04 00:11:16 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-10-04 00:26:01 +0800"
     },
     "done": true
   },
@@ -4992,6 +4916,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-10-04 00:23:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_black_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:26:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:26:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/black_bundle": {
+    "criteria": {
+      "has_black_dye": "2026-10-04 00:26:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:26:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2026-10-04 00:26:01 +0800"
@@ -5013,6 +4967,66 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2026-10-04 00:26:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-04 00:49:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-04 00:49:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-04 00:54:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2026-10-04 20:30:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-10-04 20:26:02 +0800"
     },
     "done": true
   },
