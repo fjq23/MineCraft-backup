@@ -5097,15 +5097,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2026-10-04 14:09:04 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2026-10-04 13:00:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-10-04 14:09:04 +0800"
     },
     "done": true
   },

@@ -1,1 +1,2 @@
 Chunky-NeoForge-1.4.54.jar
+easylogin-1.0.2.jar
