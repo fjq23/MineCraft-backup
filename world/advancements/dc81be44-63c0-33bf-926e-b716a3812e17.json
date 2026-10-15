@@ -6272,21 +6272,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2026-10-14 23:55:26 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_brown_bed": {
     "criteria": {
       "has_needed_dye": "2026-10-14 23:17:45 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2026-10-14 23:50:15 +0800"
     },
     "done": true
   },
@@ -6296,31 +6284,25 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2026-10-14 23:50:15 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2026-10-14 23:55:26 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_candle": {
     "criteria": {
       "has_brown_dye": "2026-10-14 23:17:45 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
     "criteria": {
-      "has_purple_wool": "2026-10-14 23:55:26 +0800"
+      "has_needed_dye": "2026-10-14 23:17:45 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
+  "minecraft:recipes/decorations/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-10-14 23:17:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_brown_harness": {
     "criteria": {
       "has_needed_dye": "2026-10-14 23:17:45 +0800"
     },
@@ -6332,15 +6314,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-10-14 23:17:45 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2026-10-14 23:41:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2026-10-14 23:41:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-14 23:50:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-10-14 23:50:15 +0800"
     },
     "done": true
   },
@@ -6350,15 +6344,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_brown_harness": {
+  "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
-      "has_needed_dye": "2026-10-14 23:17:45 +0800"
+      "has_purple_wool": "2026-10-14 23:55:26 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "has_blue_wool": "2026-10-14 23:41:45 +0800"
+      "has_purple_wool": "2026-10-14 23:55:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2026-10-14 23:55:26 +0800"
     },
     "done": true
   },
