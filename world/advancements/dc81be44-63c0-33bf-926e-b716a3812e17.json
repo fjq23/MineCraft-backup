@@ -6372,12 +6372,6 @@
     },
     "done": true
   },
-  "immersive_aircraft:misc/aircraftery": {
-    "criteria": {
-      "has_item": "2026-10-17 02:28:57 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-10-17 02:37:50 +0800"
@@ -6399,6 +6393,102 @@
   "aerialhell:story/enter_aerial_hell": {
     "criteria": {
       "entered_aerial_hell": "2026-10-17 02:54:10 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/collect_ruby": {
+    "criteria": {
+      "ruby": "2026-10-17 21:17:04 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_ruby_armor": {
+    "criteria": {
+      "ruby_leggings": "2026-10-17 21:30:37 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/ruby_tools": {
+    "criteria": {
+      "ruby_pickaxe": "2026-10-17 21:30:45 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/collect_magmatic_gel": {
+    "criteria": {
+      "magmatic_gel": "2026-10-17 21:35:41 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_lunatic_dungeon": {
+    "criteria": {
+      "in_lunatic_temple": "2026-10-17 21:37:27 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/kill_lunatic_boss": {
+    "criteria": {
+      "kill_lunatic_boss": "2026-10-17 22:00:47 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_lunatic_stuff": {
+    "criteria": {
+      "lunatic_stuff": "2026-10-17 22:01:53 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_magmatic_gel_armor": {
+    "criteria": {
+      "magmatic_gel_boots": "2026-10-18 01:53:22 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_mud_dungeon": {
+    "criteria": {
+      "in_mud_dungeon": "2026-10-18 01:57:01 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/kill_mud_boss": {
+    "criteria": {
+      "kill_mud_boss": "2026-10-18 02:00:06 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_obsidian_stuff": {
+    "criteria": {
+      "obsidian_stuff": "2026-10-18 02:00:36 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/vibrate_volucite": {
+    "criteria": {
+      "volucite": "2026-10-18 02:12:47 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_golden_nether_dungeon": {
+    "criteria": {
+      "in_golden_nether_prison": "2026-10-18 02:32:35 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/gods_bucket": {
+    "criteria": {
+      "gods_bucket": "2026-10-18 02:36:21 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_arsonist_stuff": {
+    "criteria": {
+      "arsonist_stuff": "2026-10-18 02:45:54 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/kill_golden_nether_boss": {
+    "criteria": {
+      "kill_golden_nether_boss": "2026-10-18 02:44:10 +0800"
     },
     "done": true
   },

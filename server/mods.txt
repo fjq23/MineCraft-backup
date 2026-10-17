@@ -1,4 +1,3 @@
 aerialhell-0.7.8_fabric1.21.11.jar
 Chunky-Fabric-1.4.55.jar
 fabric-api-0.141.6+1.21.11.jar
-immersive_aircraft-1.5.2+1.21.11-fabric.jar
