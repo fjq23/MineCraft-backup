@@ -6480,15 +6480,39 @@
     },
     "done": true
   },
+  "aerialhell:story/kill_golden_nether_boss": {
+    "criteria": {
+      "kill_golden_nether_boss": "2026-10-18 02:44:10 +0800"
+    },
+    "done": true
+  },
   "aerialhell:classic/obtain_arsonist_stuff": {
     "criteria": {
       "arsonist_stuff": "2026-10-18 02:45:54 +0800"
     },
     "done": true
   },
-  "aerialhell:story/kill_golden_nether_boss": {
+  "aerialhell:story/enter_shadow_catacombs_dungeon": {
     "criteria": {
-      "kill_golden_nether_boss": "2026-10-18 02:44:10 +0800"
+      "in_shadow_catacombs": "2026-10-18 15:25:23 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/shadow_hunter": {
+    "criteria": {
+      "shadow_pine_mimic": "2026-10-18 15:25:29 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_volucite_armor": {
+    "criteria": {
+      "volucite_boots": "2026-10-18 15:31:53 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:secret/glass_cannon": {
+    "criteria": {
+      "glass_cannon": "2026-10-18 15:44:56 +0800"
     },
     "done": true
   },
