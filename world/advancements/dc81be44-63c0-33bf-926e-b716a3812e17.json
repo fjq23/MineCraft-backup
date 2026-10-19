@@ -6516,5 +6516,41 @@
     },
     "done": true
   },
+  "aerialhell:classic/collect_shadow_shard": {
+    "criteria": {
+      "shadow_shard": "2026-10-19 11:28:52 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/kill_lilith_boss": {
+    "criteria": {
+      "kill_lilith": "2026-10-19 11:34:04 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/cursed_tools": {
+    "criteria": {
+      "cursed_axe": "2026-10-19 11:36:33 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:secret/light_tools": {
+    "criteria": {
+      "axe_of_light": "2026-10-19 11:44:25 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:secret/torn_soul": {
+    "criteria": {
+      "torn_soul": "2026-10-19 12:06:29 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:secret/kill_fat_phantom": {
+    "criteria": {
+      "kill_fat_phantom": "2026-10-20 03:14:23 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
