@@ -5435,5 +5435,77 @@
     },
     "done": true
   },
+  "aerialhell:story/enter_lunatic_dungeon": {
+    "criteria": {
+      "in_lunatic_temple": "2026-10-20 23:03:57 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_golden_nether_dungeon": {
+    "criteria": {
+      "in_golden_nether_prison": "2026-10-20 23:20:08 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/kill_lunatic_boss": {
+    "criteria": {
+      "kill_lunatic_boss": "2026-10-20 23:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-10-20 23:22:17 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/collect_ruby": {
+    "criteria": {
+      "ruby": "2026-10-20 22:59:22 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/shoot_ruby_shard": {
+    "criteria": {
+      "shot_shard": "2026-10-20 23:10:39 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/throw_shuriken": {
+    "criteria": {
+      "threw_shuriken": "2026-10-20 23:10:57 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/gods_bucket": {
+    "criteria": {
+      "gods_bucket": "2026-10-20 23:50:05 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:secret/torn_soul": {
+    "criteria": {
+      "torn_soul": "2026-10-20 23:51:48 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_mud_dungeon": {
+    "criteria": {
+      "in_mud_dungeon": "2026-10-20 22:59:16 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:classic/obtain_arsonist_stuff": {
+    "criteria": {
+      "arsonist_stuff": "2026-10-20 22:55:16 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_aerial_hell": {
+    "criteria": {
+      "entered_aerial_hell": "2026-10-20 22:52:43 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
