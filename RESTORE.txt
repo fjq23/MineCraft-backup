@@ -1,6 +1,16 @@
 Minecraft disaster-recovery backup.
 
-The world directory contains the save. The server directory contains the
-important configuration and access-list files. Reinstall Minecraft 1.21.11,
-NeoForge 21.11.45, and the mods listed in server/mods.txt, then restore these
-files into the server directory while the server is stopped.
+The world directory contains the save. The server directory contains settings,
+access lists, JVM options and a mod filename list. Reinstall Minecraft 1.21.11
+with Fabric Loader (0.19.5 at migration time), Fabric API and the exact mods
+listed in server/mods.txt. Restore the world and configuration with the server
+stopped. This is a Fabric save; do not restore it with the old NeoForge setup.
+
+RCON passwords are intentionally blank in this repository. Set a fresh password
+before enabling RCON and restrict its port to loopback using the host firewall.
+Loader libraries and mod binaries are not included in this repository.
+
+Remote main retains the full backup history. The ECS backup task uses a fresh
+blobless shallow repository each run and removes it after the attempt. A small
+local success record is kept in /var/lib/minecraft-github-backup-state.
+The original daily .tar.gz archives remain under /var/backups/minecraft.

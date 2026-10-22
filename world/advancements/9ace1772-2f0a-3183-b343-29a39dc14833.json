@@ -5435,33 +5435,33 @@
     },
     "done": true
   },
-  "aerialhell:story/enter_lunatic_dungeon": {
+  "aerialhell:story/enter_aerial_hell": {
     "criteria": {
-      "in_lunatic_temple": "2026-10-20 23:03:57 +0800"
+      "entered_aerial_hell": "2026-10-20 22:52:43 +0800"
     },
     "done": true
   },
-  "aerialhell:story/enter_golden_nether_dungeon": {
+  "aerialhell:classic/obtain_arsonist_stuff": {
     "criteria": {
-      "in_golden_nether_prison": "2026-10-20 23:20:08 +0800"
+      "arsonist_stuff": "2026-10-20 22:55:16 +0800"
     },
     "done": true
   },
-  "aerialhell:story/kill_lunatic_boss": {
+  "aerialhell:story/enter_mud_dungeon": {
     "criteria": {
-      "kill_lunatic_boss": "2026-10-20 23:16:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2026-10-20 23:22:17 +0800"
+      "in_mud_dungeon": "2026-10-20 22:59:16 +0800"
     },
     "done": true
   },
   "aerialhell:classic/collect_ruby": {
     "criteria": {
       "ruby": "2026-10-20 22:59:22 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_lunatic_dungeon": {
+    "criteria": {
+      "in_lunatic_temple": "2026-10-20 23:03:57 +0800"
     },
     "done": true
   },
@@ -5477,6 +5477,24 @@
     },
     "done": true
   },
+  "aerialhell:story/kill_lunatic_boss": {
+    "criteria": {
+      "kill_lunatic_boss": "2026-10-20 23:16:20 +0800"
+    },
+    "done": true
+  },
+  "aerialhell:story/enter_golden_nether_dungeon": {
+    "criteria": {
+      "in_golden_nether_prison": "2026-10-20 23:20:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2026-10-20 23:22:17 +0800"
+    },
+    "done": true
+  },
   "aerialhell:classic/gods_bucket": {
     "criteria": {
       "gods_bucket": "2026-10-20 23:50:05 +0800"
@@ -5489,21 +5507,15 @@
     },
     "done": true
   },
-  "aerialhell:story/enter_mud_dungeon": {
+  "aerialhell:classic/harder_stone": {
     "criteria": {
-      "in_mud_dungeon": "2026-10-20 22:59:16 +0800"
+      "requirement": "2026-10-21 22:51:10 +0800"
     },
     "done": true
   },
-  "aerialhell:classic/obtain_arsonist_stuff": {
+  "aerialhell:story/vibrate_volucite": {
     "criteria": {
-      "arsonist_stuff": "2026-10-20 22:55:16 +0800"
-    },
-    "done": true
-  },
-  "aerialhell:story/enter_aerial_hell": {
-    "criteria": {
-      "entered_aerial_hell": "2026-10-20 22:52:43 +0800"
+      "volucite": "2026-10-21 23:18:31 +0800"
     },
     "done": true
   },
