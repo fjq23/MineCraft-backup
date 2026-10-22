@@ -13,4 +13,6 @@ Loader libraries and mod binaries are not included in this repository.
 Remote main retains the full backup history. The ECS backup task uses a fresh
 blobless shallow repository each run and removes it after the attempt. A small
 local success record is kept in /var/lib/minecraft-github-backup-state.
+Small dashboard history counters are retained there as history.json; no world
+region files or Git object history are kept in that state directory.
 The original daily .tar.gz archives remain under /var/backups/minecraft.
