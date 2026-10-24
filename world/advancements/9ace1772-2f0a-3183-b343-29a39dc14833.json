@@ -5522,5 +5522,11 @@
     },
     "done": true
   },
+  "aerialhell:secret/glass_cannon": {
+    "criteria": {
+      "glass_cannon": "2026-10-24 23:16:17 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
