@@ -6590,39 +6590,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+  "minecraft:husbandry/wax_off": {
     "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_chiseled_copper_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/froglights": {
-    "criteria": {
-      "froglights": "2026-10-25 16:24:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+      "wax_off": "2026-10-25 15:05:16 +0800"
     },
     "done": true
   },
   "minecraft:recipes/redstone/oxidized_copper_bulb": {
     "criteria": {
       "has_oxidized_copper": "2026-10-25 15:05:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
-    "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
     },
     "done": true
   },
@@ -6644,45 +6620,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/wax_off": {
-    "criteria": {
-      "wax_off": "2026-10-25 15:05:16 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_copper_grate_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2026-10-25 15:05:29 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2026-10-25 15:05:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/weathered_cut_copper": {
-    "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper": {
-    "criteria": {
-      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
     },
     "done": true
   },
@@ -6698,21 +6644,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2026-10-25 15:05:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_chiseled_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/weathered_copper_grate_from_weathered_copper_stonecutting": {
     "criteria": {
       "has_weathered_copper": "2026-10-25 15:08:31 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_copper_grate": {
+  "minecraft:recipes/building_blocks/weathered_copper_grate": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/weathered_copper_bulb": {
+    "criteria": {
+      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_chiseled_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2026-10-25 15:08:37 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_copper_grate": {
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
     "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_copper_grate": {
+    "criteria": {
+      "has_exposed_copper": "2026-10-25 15:08:37 +0800"
     },
     "done": true
   },
@@ -6734,21 +6746,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
-    "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/exposed_copper_grate_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2026-10-25 15:08:37 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_copper": "2026-10-25 15:05:29 +0800"
     },
     "done": true
   },
@@ -6758,9 +6758,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/weathered_copper_bulb": {
+  "minecraft:husbandry/froglights": {
     "criteria": {
-      "has_weathered_copper": "2026-10-25 15:08:31 +0800"
+      "froglights": "2026-10-25 16:24:06 +0800"
     },
     "done": true
   },
